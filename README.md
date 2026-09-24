@@ -1,5 +1,6 @@
 # econ3916-lab02-deflation
 Deflating Economic Data — Nominal vs. Real
+
 Objective
 This project quantifies the divergence between nominal and inflation-adjusted economic indicators by constructing a CPI-based deflation pipeline and applying it to U.S. wage and price data.
 
